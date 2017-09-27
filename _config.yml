@@ -17,8 +17,8 @@ title: CODINGDONKEY重拾写作的乐趣
 email: garyrenhk@gmail.com
 description: 我是一个程序员，在这里我想记录一些我的生活感悟还有软件开发方面的研究
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "http://codingdonkey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 还没有
 github_username:  codingdonkey
 
 # Build settings
