@@ -19,4 +19,4 @@ categories: any
 这个有关价值的说法，不无道理，不管你是用诗歌、还是文章、还是房地产，只要影响了一部分人，你将都是有价值的。好吧，我只是想说我也想写些文章，创造一点自己的价值。
 ***
 
-![配个图神户动物园]({{ site.title }}/assets/monkey-in-kobe.jpeg)
+![配个图神户动物园]({{ site.url }}/assets/monkey-in-kobe.jpeg)
