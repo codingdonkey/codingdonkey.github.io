@@ -4,7 +4,7 @@ SEOTitle: CodingDonkey的博客 | CodingDonkey Blog
 header-img: img/post-bg-desk.jpg
 email: codingdonkey@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, CodingDonkey的博客, iOS, Apple, iPhone"
+keyword: "CodingDonkey, CodingDonkey Blog, CodingDonkey的博客, iOS, Apple, iPhone"
 url: "http://codingdonkey.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/codingdonkey/codingdonkey.github.io.git" # you code repository
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     codingdonkey
 zhihu_username:     codingdonkey
 github_username:    codingdonkey
-facebook_username:  baiying.qiu.7
+facebook_username:  CodingDonkey.CodingDonkey.7
 jianshu_username:   codingdonkey
 #twitter_username:   qiubaiying
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Google",
+        href: "http://www.google.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·CD",
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"

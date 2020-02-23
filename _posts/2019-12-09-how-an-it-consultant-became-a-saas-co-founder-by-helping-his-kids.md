@@ -3,7 +3,7 @@ layout:     post
 title:      一個IT咨詢師如何通過幫助他的小孩而成為SaaS的聯合創始人
 subtitle:   一個IT咨詢師如何通過幫助他的小孩而成為SaaS的聯合創始人
 date:       2019-12-09
-author:     BY
+author:     CodingDonkey
 header-img: img/post-bg-saas.png
 catalog: true
 tags:
