@@ -21,7 +21,7 @@ categories:
 粗略的看了一下，現階段提供的API都還比較初級，匯豐HSBC、恆生還只提供英文版的信息，香港還是看中文的多吧，中銀則英文中文都有
 
 
-![API截圖](/images/uploads/bocapi1.png "API截圖")
+![API截圖](/img/bocapi1.png "API截圖")
 
 中銀還給了四種開發語言的示例代碼，匯豐恆生暫時沒有示例代碼
 
